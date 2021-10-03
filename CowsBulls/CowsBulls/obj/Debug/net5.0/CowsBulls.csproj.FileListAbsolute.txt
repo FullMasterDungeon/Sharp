@@ -1,0 +1,16 @@
+C:\Users\Dungeon Master\source\repos\CowsBulls\CowsBulls\bin\Debug\net5.0\CowsBulls.exe
+C:\Users\Dungeon Master\source\repos\CowsBulls\CowsBulls\bin\Debug\net5.0\CowsBulls.deps.json
+C:\Users\Dungeon Master\source\repos\CowsBulls\CowsBulls\bin\Debug\net5.0\CowsBulls.runtimeconfig.json
+C:\Users\Dungeon Master\source\repos\CowsBulls\CowsBulls\bin\Debug\net5.0\CowsBulls.runtimeconfig.dev.json
+C:\Users\Dungeon Master\source\repos\CowsBulls\CowsBulls\bin\Debug\net5.0\CowsBulls.dll
+C:\Users\Dungeon Master\source\repos\CowsBulls\CowsBulls\bin\Debug\net5.0\ref\CowsBulls.dll
+C:\Users\Dungeon Master\source\repos\CowsBulls\CowsBulls\bin\Debug\net5.0\CowsBulls.pdb
+C:\Users\Dungeon Master\source\repos\CowsBulls\CowsBulls\obj\Debug\net5.0\CowsBulls.csproj.AssemblyReference.cache
+C:\Users\Dungeon Master\source\repos\CowsBulls\CowsBulls\obj\Debug\net5.0\CowsBulls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dungeon Master\source\repos\CowsBulls\CowsBulls\obj\Debug\net5.0\CowsBulls.AssemblyInfoInputs.cache
+C:\Users\Dungeon Master\source\repos\CowsBulls\CowsBulls\obj\Debug\net5.0\CowsBulls.AssemblyInfo.cs
+C:\Users\Dungeon Master\source\repos\CowsBulls\CowsBulls\obj\Debug\net5.0\CowsBulls.csproj.CoreCompileInputs.cache
+C:\Users\Dungeon Master\source\repos\CowsBulls\CowsBulls\obj\Debug\net5.0\CowsBulls.dll
+C:\Users\Dungeon Master\source\repos\CowsBulls\CowsBulls\obj\Debug\net5.0\ref\CowsBulls.dll
+C:\Users\Dungeon Master\source\repos\CowsBulls\CowsBulls\obj\Debug\net5.0\CowsBulls.pdb
+C:\Users\Dungeon Master\source\repos\CowsBulls\CowsBulls\obj\Debug\net5.0\CowsBulls.genruntimeconfig.cache
